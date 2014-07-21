@@ -6,3 +6,15 @@
 	box-sizing: border-box;
 }
 
+body {
+	font-family: "Helvetica Neue";
+	font-weight:200;
+}
+
+h1 {
+	color: #242424;
+}
+
+p {
+	color:#353535;
+}
